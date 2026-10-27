@@ -1,0 +1,14 @@
+{
+    "features": [
+        "studytime",
+        "failures",
+        "absences",
+        "G1",
+        "G2"
+    ],
+    "target": "G3",
+    "mae": 1.097,
+    "rmse": 1.746,
+    "r2": 0.851,
+    "test_rows": 79
+}
