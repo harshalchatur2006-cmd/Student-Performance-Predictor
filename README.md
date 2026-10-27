@@ -76,3 +76,8 @@ Predictions are estimates for educational demonstration purposes only. They shou
 ## Author
 
 Developed as a student machine learning project.
+
+## Live Demo
+
+Try GradeWise here:
+https://student-performance-predictor-jrxax7d53pmty3ib6ippdl.streamlit.app
